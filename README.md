@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my GitHub!
+I mostly share projects I have done either to learn or because I wanted to try something new.
+
+Stuff I'll be trying soon™:
+- three.js
+- something to do with image processing
+
+☕&🍵
