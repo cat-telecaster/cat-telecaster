@@ -19,7 +19,7 @@ Welcome to my GitHub!
 I mostly share projects I have done either to learn or because I wanted to try something new.
 
 Stuff I'll be trying soon™:
-- three.js
-- something to do with image processing
+- three.js (probably when i decide to make my portfolio site???)
+- something to do with image processing (in progress - image filter app with PIL and cv2)
 
 ☕&🍵
