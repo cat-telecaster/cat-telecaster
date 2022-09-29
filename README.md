@@ -20,6 +20,5 @@ I mostly share projects I have done either to learn or because I wanted to try s
 
 Stuff I'll be trying soon™:
 - three.js (portfolio site + side project frontend)
-- something to do with image processing ✅ (beta for live ASCII filter complete - looking to deploy somehow)
 
 ☕&🍵
