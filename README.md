@@ -19,6 +19,7 @@ Welcome to my GitHub!
 I mostly share projects I have done either to learn or because I wanted to try something new.
 
 Stuff I'll be trying soon™:
+- blog first 😉
 - big project soon... 🤓
 
 ☕&🍵
