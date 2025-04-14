@@ -19,7 +19,7 @@ Welcome to my GitHub!
 I mostly share projects I have done either to learn or because I wanted to try something new.
 
 Stuff I'll be trying soon™:
-- blog first (i swear i will get around to this...) 🤥
-- probably going to share my nvim files after going through them again 💾
+- blog first (i swear i will get around to this... 🤥)
+- probably going to share my nvim lua files after going through them again 💾
 
 ☕&🍵
