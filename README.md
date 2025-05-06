@@ -1,4 +1,2 @@
-- blog first (i swear i will get around to this... 🤥)
-- probably going to share my nvim lua files after going through them again 💾
-
+too busy doing b2b saas item delivery to exceed annual kpi's to write a blog
 ☕&🍵
